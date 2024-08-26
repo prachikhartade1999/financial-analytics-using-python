@@ -1,0 +1,11 @@
+Financial Data Analysis and Visualization Project using Python 
+
+Description:  
+• Conducted a comprehensive analysis of financial metrics for a dataset containing market capitalization and sales data 
+for top companies. Cleaned and preprocessed the data to handle missing values and inconsistencies, ensuring 
+accurate analysis. 
+• Designed and implemented various data visualizations such as bar chart, pie chart, histograms, scatter plot, etc 
+• Utilized Python libraries including pandas, numpy, matplotlib and seaborn for data processing and visualization. 
+• Provided actionable insights into market cap distribution and ratios, aiding strategic decision-making. 
+
+Tools and Technology: Python, Jupyter notebook.  
